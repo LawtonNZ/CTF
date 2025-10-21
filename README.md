@@ -1,6 +1,6 @@
 # CTF
 
-##Huntress CTF##
+##Huntress CTF 2025##
 
 1. flag{bf61aced6e7f9335385a70f33b20d188}     found in rules and then in the html code look for flag{
 
