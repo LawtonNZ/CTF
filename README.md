@@ -12,8 +12,9 @@
 i. flag{678ac45487c9862a6c2c00a1affed9dc}  binary
 ii. flag{fe580e05e527f20421290605809caec9}  octal
 iii. flag{7d1eb2e0776cd7c5c78df01010f30e50}  ASCII 
-iv. flag{d3cb2be3e4e4a8f517d9c5ce4372b0b7}  Base 16
-v. 
+iv. flag{d3cb2be3e4e4a8f517d9c5ce4372b0b7}  hex or base 16
+v. flag{9bb5bb8ea508bcfbc51bd5e11efb29cc}   was a 32 bit encyption same as google auth key needed to put into python and run a script to convert
+vi. 
 
    
 
