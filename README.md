@@ -14,7 +14,8 @@ ii. flag{fe580e05e527f20421290605809caec9}  octal
 iii. flag{7d1eb2e0776cd7c5c78df01010f30e50}  ASCII 
 iv. flag{d3cb2be3e4e4a8f517d9c5ce4372b0b7}  hex or base 16
 v. flag{9bb5bb8ea508bcfbc51bd5e11efb29cc}   was a 32 bit encyption same as google auth key needed to put into python and run a script to convert
-vi. 
+vi. flag{b5bef376027104b8c73dafbe95be47f4}  base 45   used cyber chef and went up the list
+vii. flag{cd0164ff64726f2972b2d8f2ac0119db}  base 64
 
    
 
