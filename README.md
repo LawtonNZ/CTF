@@ -16,6 +16,10 @@ iv. flag{d3cb2be3e4e4a8f517d9c5ce4372b0b7}  hex or base 16
 v. flag{9bb5bb8ea508bcfbc51bd5e11efb29cc}   was a 32 bit encyption same as google auth key needed to put into python and run a script to convert
 vi. flag{b5bef376027104b8c73dafbe95be47f4}  base 45   used cyber chef and went up the list
 vii. flag{cd0164ff64726f2972b2d8f2ac0119db}  base 64
+viii. flag{a414ae096381d9594c58e785b3c95dfb} base 85  manually using cyber chef
+ix.
+
+5. flag{2c33c169aebdf2ee31e3895d5966d93f} was missing 0 at the start of every 8 bit
 
    
 
